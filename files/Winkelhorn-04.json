@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (4 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmRRVpRYi7NkfApvAmJCc7q4csBjgnZ5oEYfYbMc345HVE",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Black Forrest"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Adventurer's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Artisanal Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Mountain Dew"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Aged Walnut Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Evergreen and Bone White"
+        },
+        {
+          "trait_type": "Forest Companion",
+          "value": "Dashing Dog with Hat"
+        }
+      ]
+}

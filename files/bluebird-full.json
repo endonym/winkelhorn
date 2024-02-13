@@ -1,0 +1,18 @@
+{
+    "title": "Asset Metadata",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Bluebird"
+        },
+        "description": {
+            "type": "string",
+            "description": "An elegant and cooperative bird"
+        },
+        "image": {
+            "type": "string",
+            "description": "ipfs://QmW2eNKyDXihadHzNebud2bAPHoB6XBWPaHx8V3udcqqXu"
+        }
+    }
+}

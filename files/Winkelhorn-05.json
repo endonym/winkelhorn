@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (5 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmQg9UyZ6nZM6PXD3Cw337mj5ufrZnkap5yXr9EESR9bND",
+    "attributes":[
+      {
+        "trait_type": "Background",
+        "value": "Warm Tavern Ambiance"
+      },
+      {
+        "trait_type": "Object",
+        "value": "Connoisseur's Drinking Horn"
+      },
+      {
+        "trait_type": "Horn Material",
+        "value": "Refined Glass"
+      },
+      {
+        "trait_type": "Liquid",
+        "value": "Ale of Legends"
+      },
+      {
+        "trait_type": "Stand Material",
+        "value": "Solid Maple Wood"
+      },
+      {
+        "trait_type": "Bubbles",
+        "value": "Yes"
+      },
+      {
+        "trait_type": "Font Color",
+        "value": "Vintage Gold and Wine"
+      },
+      {
+        "trait_type": "Extra",
+        "value": "Signature Craft Beer Bottle"
+      }
+    ]
+}

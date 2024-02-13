@@ -1,0 +1,11 @@
+{
+    "name": "Bluebird",
+    "description": "An elegant and cooperative bird",
+    "image": "ipfs://QmW2eNKyDXihadHzNebud2bAPHoB6XBWPaHx8V3udcqqXu",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Blue"
+      }
+    ]
+}

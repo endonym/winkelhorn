@@ -1,0 +1,36 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (1 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmR8wjUXhpbSxskryi9APZokYnJyczhF3kW7tg24gYzHJe",
+    "attributes": [
+        {
+        "trait_type": "Background",
+        "value": "Purple with Light Rays"
+        },
+        {
+        "trait_type": "Object",
+        "value": "Drinking Horn"
+        },
+        {
+        "trait_type": "Horn Material",
+        "value": "Glass" 
+        },
+        {
+        "trait_type": "Liquid",
+        "value": "Transparent Beverage"
+        },
+        {
+        "trait_type": "Stand Material",
+        "value": "Wood"
+        },
+        {
+        "trait_type": "Bubbles",
+        "value": "Yes"
+        },
+        {
+        "trait_type": "Font Color",
+        "value": "White and Blue"
+        }
+    ]
+}

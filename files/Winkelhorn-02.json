@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (2 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmSjAxUtE7gB1FePuwTj7vJKDsSMfv6L3m2jQXHzuomfCA",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Party Gradient with Disco Flare"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Festive Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Premium Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Sparkling Beverage"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Polished Oak Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Electric Purple and White"
+        },
+        {
+          "trait_type": "Additional Accessory",
+          "value": "Disco Ball"
+        }
+      ]
+}

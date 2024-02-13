@@ -1,0 +1,36 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (10 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmX3Nm2qEesyxoAjD6XWTh3Xn1m68omP8Q34s61G4Dqp1b",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Harvest Gold Fields"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Farmer's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Heirloom Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Golden Grain Elixir"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Rustic Hickory Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Harvest Moon and Twilight"
+        }
+      ]
+}

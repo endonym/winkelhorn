@@ -1,0 +1,44 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (8 of 10)",
+    "quantity": "10",
+    "image": "ipfs://Qmazi6WBSaybxRykKHPKNuxLbHrQJKo5gV2HS87hoZmXsE",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Tropical Paradise"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Islander's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Clear Coastal Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Island Punch"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Driftwood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Sunset Orange and Ocean Blue"
+        },
+        {
+          "trait_type": "Beach Buddy",
+          "value": "Cheerful Monkey"
+        },
+        {
+          "trait_type": "Garnish",
+          "value": "Tropical Mix"
+        }
+      ]
+}

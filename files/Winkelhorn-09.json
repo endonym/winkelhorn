@@ -1,0 +1,44 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (9 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmdMsK7Recm76pmC3DLUMfwokAJMtDdVjjVB5fPDamReh8",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Highland Peaks"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Viking's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Engraved Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Barbarian Brew"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Hardy Pine Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Dusk Purple and Gold"
+        },
+        {
+          "trait_type": "Guardian",
+          "value": "Stalwart Viking"
+        },
+        {
+          "trait_type": "Topper",
+          "value": "Frothy Head"
+        }
+      ]
+}

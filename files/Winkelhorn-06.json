@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (6 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmUCSiCargjA6aRunDbT6RqszxYQRDGwn4eXUa8LVYpXrU",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Deep Space Odyssey"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Astronaut's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Zero-Gravity Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Cosmic Cooler"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Meteorite Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Supernova White and Comet Tail"
+        },
+        {
+          "trait_type": "Space Element",
+          "value": "Brave Spacefarer"
+        }
+      ]
+}

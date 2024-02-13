@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (7 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmPVWWA3Wenq1TbUuvcJvxQWtKgBHdmeeHRQp9Kbcm7Ejj",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Arctic Ice Floe"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Polar Explorer's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Frosted Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Glacial Melt"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Boreal Birch Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Icicle White and Glacier Blue"
+        },
+        {
+          "trait_type": "Arctic Inhabitant",
+          "value": "Majestic Polar Bear"
+        }
+      ]
+}

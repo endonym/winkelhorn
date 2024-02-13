@@ -1,0 +1,40 @@
+{
+    "name": "The Winkelhorn",
+    "description": "The Winkelhorn (3 of 10)",
+    "quantity": "10",
+    "image": "ipfs://QmQDniTbM3Hks6FELgd83XCptkQ4vpNCNTjXsE2cNK6nAB",
+    "attributes":[
+        {
+          "trait_type": "Background",
+          "value": "Savanna Twilight"
+        },
+        {
+          "trait_type": "Object",
+          "value": "Explorer's Drinking Horn"
+        },
+        {
+          "trait_type": "Horn Material",
+          "value": "Bespoke Glass"
+        },
+        {
+          "trait_type": "Liquid",
+          "value": "Purified Spring Water"
+        },
+        {
+          "trait_type": "Stand Material",
+          "value": "Teak Wood"
+        },
+        {
+          "trait_type": "Bubbles",
+          "value": "Yes"
+        },
+        {
+          "trait_type": "Font Color",
+          "value": "Midnight Blue and Ivory"
+        },
+        {
+          "trait_type": "Wildlife",
+          "value": "Kudu Antelope"
+        }
+      ]
+}

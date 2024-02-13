@@ -1,0 +1,26 @@
+{
+  "name": "artefact-nft-test",
+  "version": "1.0.0",
+  "description": "Mint some NFTs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "keywords": [
+    "nft",
+    "example"
+  ],
+  "author": "mharris",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.19.5",
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^5.0.1",
+    "axios": "^1.6.7",
+    "form-data": "^4.0.0",
+    "fs": "^0.0.1-security"
+  }
+}
